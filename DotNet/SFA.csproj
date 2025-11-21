@@ -460,6 +460,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\dataTables.bootstrap.css" />
     <Content Include="CustomerMaster_Online_Report.aspx" />
+    <Content Include="Database\dotnet.sql" />
     <Content Include="DraftCustomerGPS.aspx" />
     <Content Include="Global.asax" />
     <Content Include="MapCustList.aspx" />
